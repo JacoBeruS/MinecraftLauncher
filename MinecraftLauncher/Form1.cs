@@ -42,7 +42,7 @@ namespace MinecraftLauncher
             {
                 MaximumRamMb = 2048,
                 Session = MSession.GetOfflineSession(textBox1.Text),
-                ServerIp = "mega.rasbyte.net:25698",
+                ServerIp = "localhost:25565",
 
             };
             versiyon = comboBox1.SelectedItem.ToString();
